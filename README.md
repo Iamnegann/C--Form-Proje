@@ -1,2 +1,2 @@
-# C--Form-Proje
+# C#-Form-Proje
 Ürün Alış Satış Uygulaması
