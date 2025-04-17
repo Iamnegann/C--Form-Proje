@@ -1,2 +1,3 @@
 # C#-Form-Proje
-Ürün Alış Satış Uygulaması
+
+Proje Visual Studio 2022 C#(.NET WinForms) kullanılarak yapılmıştır , form resimleride eklenmiştir .
